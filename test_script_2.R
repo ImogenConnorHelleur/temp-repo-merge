@@ -1,6 +1,9 @@
 #test script 2
 
-#function that returns double the input
 fun <- function(x){
-  double_x <- 2 * x
+  triple_x <- 3 * x
 }
+
+fun2 <- function(x){
+  quadruple_x <- 4 * x
+ }
