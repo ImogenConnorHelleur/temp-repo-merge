@@ -6,4 +6,4 @@ fun <- function(x){
 
 fun2 <- function(x){
   quadruple_x <- 4 * x
-}
+ }
